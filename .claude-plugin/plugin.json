@@ -1,0 +1,16 @@
+{
+  "name": "checkchinatransit",
+  "version": "1.0.1",
+  "description": "Verify China 240-hour (formerly 144h) visa-free transit eligibility, ports & third-country routes.",
+  "homepage": "https://checkchinatransit.com",
+  "repository": "https://github.com/AbigailDavised/checkchinatransit-mcp",
+  "license": "MIT",
+  "author": {
+    "name": "CheckChinaTransit",
+    "url": "https://checkchinatransit.com"
+  },
+  "mcpServers": "./mcp.json",
+  "skills": [
+    "./skills/checkchinatransit"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "checkchinatransit": {
+      "type": "streamable-http",
+      "url": "https://checkchinatransit.com/api/mcp"
+    }
+  }
+}
