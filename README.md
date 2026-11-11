@@ -1,4 +1,6 @@
-# CheckChinaTransit — China 24/240-Hour Visa-Free Transit Compliance Engine
+
+
+[![mcptry](https://mcptry.com/badge/com.checkchinatransit/mcp)](https://mcptry.com/servers/com.checkchinatransit/mcp)
 
 [![Official Website](https://img.shields.io/badge/Website-checkchinatransit.com-blue)](https://checkchinatransit.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.checkchinatransit%2Fmcp-green)](https://www.mcptry.com/servers/com.checkchinatransit/mcp)
