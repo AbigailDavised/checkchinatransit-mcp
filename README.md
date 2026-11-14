@@ -1,6 +1,7 @@
 
 
 [![mcptry](https://mcptry.com/badge/com.checkchinatransit/mcp)](https://mcptry.com/servers/com.checkchinatransit/mcp)
+[![MCPRush Listing](https://mcprush.com/badge/checkchinatransit-china-24-240-hour-visa-free-mcp/card.svg)](https://mcprush.com/to/checkchinatransit-china-24-240-hour-visa-free-mcp?ref=badge)
 
 [![Official Website](https://img.shields.io/badge/Website-checkchinatransit.com-blue)](https://checkchinatransit.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.checkchinatransit%2Fmcp-green)](https://www.mcptry.com/servers/com.checkchinatransit/mcp)
