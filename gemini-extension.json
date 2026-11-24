@@ -1,0 +1,11 @@
+{
+  "name": "checkchinatransit",
+  "version": "1.0.1",
+  "description": "Verify China 240-hour (formerly 144h) visa-free transit eligibility, ports & third-country routes.",
+  "mcpServers": {
+    "checkchinatransit": {
+      "type": "http",
+      "url": "https://checkchinatransit.com/api/mcp"
+    }
+  }
+}

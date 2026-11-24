@@ -1,0 +1,11 @@
+{
+  "name": "@checkchinatransit/openclaw-mcp",
+  "version": "1.0.1",
+  "description": "CheckChinaTransit remote MCP integration for OpenClaw",
+  "homepage": "https://checkchinatransit.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbigailDavised/checkchinatransit-mcp",
+    "directory": "distribution/openclaw"
+  }
+}

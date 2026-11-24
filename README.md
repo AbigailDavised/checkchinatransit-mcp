@@ -72,11 +72,11 @@ npx checkchinatransit-cli demo
 
 | 深度功能模块 | 官方规范绝对 URL | 锚文本标准 (Anchor Text) | 核心能力与边检合规场景 |
 | :--- | :--- | :--- | :--- |
-| **过境免签航线资格智能核验器** | `https://checkchinatransit.com/checker` | China 144-Hour Visa-Free Transit Eligibility Checker | 依据三点中转法则判定 A-China-B 航线是否合规，秒识往返客票假中转拒登机风险 |
-| **54 国适用国籍与护照准入标准**| `https://checkchinatransit.com/countries` | 54 Eligible Countries for China 144-Hour TWOV | 欧洲申根 24 国、美洲 6 国、大洋洲 2 国及亚洲 6 国名单与护照 3 个月以上有效期核验 |
-| **过境免签允许停留行政区域口岸**| `https://checkchinatransit.com/ports` | Allowed Entry Ports & Regional Travel Mobility Zones | 江浙沪跨省联动、京津冀协同及广东全省口岸互通规则与跨区红线警示 |
-| **144 小时起算时间与边检通关手册**| `https://checkchinatransit.com/144-hour` | China 144-Hour Policy Walkthrough & Step-by-Step Guide | 详解“入境次日零点起算”的实际停留时间计算法，以及边检专用柜台临时入境许可申领 |
-| **登机门禁材料与TIMATIC对账单**| `https://checkchinatransit.com/checklist` | China Transit Document Checklist & Boarding Gate Requirements | 144 小时内已订妥座位的联程机票（含票号/电子客票行程单）、酒店订单及申报单门禁 |
+| **过境免签航线资格智能核验器** | `https://checkchinatransit.com/` | China 240-Hour Visa-Free Transit Eligibility Checker | 依据三点中转法则判定 A-China-B 航线是否合规，秒识往返客票假中转拒登机风险 |
+| **54 国适用国籍与护照准入标准**| `https://checkchinatransit.com/countries/` | 54 Eligible Countries for China 240-Hour TWOV | 欧洲申根 24 国、美洲 6 国、大洋洲 2 国及亚洲 6 国名单与护照 3 个月以上有效期核验 |
+| **过境免签允许停留行政区域口岸**| `https://checkchinatransit.com/ports/` | Allowed Entry Ports & Regional Travel Mobility Zones | 江浙沪跨省联动、京津冀协同及广东全省口岸互通规则与跨区红线警示 |
+| **144/240 小时起算时间与边检通关**| `https://checkchinatransit.com/144-hour/` | China 144/240-Hour Policy Walkthrough & Step-by-Step Guide | 详解“入境次日零点起算”的实际停留时间计算法，以及边检专用柜台临时入境许可申领 |
+| **登机门禁材料与机场通关指南**| `https://checkchinatransit.com/guide/` | China Transit Document Checklist & Airport Clearance Guide | 240 小时内已订妥座位的联程机票（含票号/电子客票行程单）、酒店订单及申报单门禁 |
 
 ---
 
